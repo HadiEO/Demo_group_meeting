@@ -1,3 +1,4 @@
 #Ignore .pyc file
 *.pyc
 *.rst
+data
